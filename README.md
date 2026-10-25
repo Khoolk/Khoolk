@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Khoolk
-- 👀 I’m interested in programming & data analytics
+- 👀 Mid-senior in analyst and operation
 - 🌱 SQL, Python, Java, PHP, HTML, CSS, JavaScript
